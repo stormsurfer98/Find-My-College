@@ -1,7 +1,7 @@
 Find My College!
 ==========
 
-Find My College!: find a college near you (version 1.0)
+Find My College: find a college near you (version 1.0)
 
 **This app helps you find a college near you using the "Higher Education Data" available online! Developed by Shrey Gupta in Mobile App Development (2014 - 2015)**
 
